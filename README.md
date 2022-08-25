@@ -1,6 +1,8 @@
-## Node.js/Express Skeleton Application
+# Node.js/Express Skeleton Application
 
 > The purpose of this application is to provide a quick template to get up and running with a node.js application backed by Express.
+
+## Running the project
 
 To get started from root directory:
 
